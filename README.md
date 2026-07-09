@@ -47,8 +47,8 @@ I'm a Full Stack Web Developer based in Chandpur, Bangladesh, specializing in th
 
 <div align="center">
 
-![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraz-ahammed&show_icons=true&theme=tokyonight)
+![Miraz's GitHub stats](https://github-readme-stats.vercel.app/api?username=miraz-ahammed&show_icons=true&theme=tokyonight&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=miraz-ahammed&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miraz-ahammed&layout=compact&theme=tokyonight)
 
 </div>
