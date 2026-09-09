@@ -41,7 +41,7 @@ I'm a Full Stack Web Developer based in Chandpur, Bangladesh, specializing in th
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miraz-ahammed)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanjilapatwaryy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.mirazahammed@gmail.com)
 
 ## 📊 GitHub Stats
 
